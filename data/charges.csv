@@ -1,0 +1,666 @@
+section,name,category
+2151.01,Liberal interpretation and construction,Juvenile
+2151.03,Neglected child defined - failure to provide medical or surgical care for religious reasons,Juvenile
+2151.04,Dependent child defined,Juvenile
+2151.05,Child without proper parental care,Juvenile
+2151.06,Residence or legal settlement,Juvenile
+2151.07,Powers and jurisdiction of juvenile court,Juvenile
+2151.08,Juvenile court in Hamilton county,Juvenile
+2151.09,Separate building and site may be purchased or leased,Juvenile
+2151.10,County appropriations for expenses of court,Juvenile
+2151.011,Juvenile court definitions,Juvenile
+2151.12,Clerk - bond - judge as clerk,Juvenile
+2151.13,Employees - compensation - bond,Juvenile
+2151.14,Duties and powers of probation department - records - command assistance,Juvenile
+2151.15,Powers and duties vested in county department of probation,Juvenile
+2151.16,Referees - powers and duties,Juvenile
+2151.17,Rules of juvenile court,Juvenile
+2151.18,Court records - annual report - copies for distribution,Juvenile
+2151.19,Summons - expense,Juvenile
+2151.20,Seal of court - dimensions,Juvenile
+2151.21,Jurisdiction in contempt,Juvenile
+2151.022,Unruly child defined,Juvenile
+2151.22,Terms of court - sessions,Juvenile
+2151.23,Jurisdiction of juvenile court,Juvenile
+2151.24,Separate room for hearings,Juvenile
+2151.25,Court order to interview and examine a child,Juvenile
+2151.26,Complaint regarding drug use by expectant mother,Juvenile
+2151.27,Complaint involving child,Juvenile
+2151.28,Adjudicatory hearing - determining shelter care placement,Juvenile
+2151.29,"Service of summons, notices, and subpoenas - publication of summons",Juvenile
+2151.30,Issuance of warrant,Juvenile
+2151.031,Abused child defined,Juvenile
+2151.31,Taking child into custody,Juvenile
+2151.32,Selection of custodian,Juvenile
+2151.33,Temporary care - emergency medical treatment - reimbursement,Juvenile
+2151.34,Protection order against a minor,Juvenile
+2151.35,Procedure for hearings in juvenile court,Juvenile
+2151.36,Support of child,Juvenile
+2151.37,Institution receiving children required to make report,Juvenile
+2151.38,Duration of dispositional order,Juvenile
+2151.39,Placement of children from other states,Juvenile
+2151.40,Cooperation with court,Juvenile
+2151.42,Best interests of child - order granting legal custody,Juvenile
+2151.43,Charges against adults; defendant bound over to grand jury,Juvenile
+2151.44,Complaint after hearing,Juvenile
+2151.45,Emancipated young adult and representative defined,Juvenile
+2151.46,Foster children in residential facilities - definitions,Juvenile
+2151.49,Suspension of sentence,Juvenile
+2151.50,Forfeiture of bond,Juvenile
+2151.52,Appeals on questions of law,Juvenile
+2151.53,Physical and mental examinations - records of examination - expenses,Juvenile
+2151.54,Fees and costs,Juvenile
+2151.55,Communicating intended placement to foster caregiver in another county and school district,Juvenile
+2151.56,Interstate compact for juveniles,Juvenile
+2151.57,Definitions for R.C. sections 2151.57 to 2151.59,Juvenile
+2151.58,Appointment of compact administrator,Juvenile
+2151.59,Administration by department of youth services,Juvenile
+2151.65,"Single-county and joint-county juvenile facilities for training, treatment, and rehabilitation",Juvenile
+2151.66,Assessment of taxes for expense,Juvenile
+2151.67,Receipt and use of gifts and bequests,Juvenile
+2151.68,Appointment of district boards of trustees by joint board of county commissioners,Juvenile
+2151.69,Organization of district board of trustees,Juvenile
+2151.70,Superintendent and other personnel,Juvenile
+2151.71,Operation of district facilities same as county facilities,Juvenile
+2151.72,Site selection,Juvenile
+2151.73,Apportioned representation on board of trustees,Juvenile
+2151.74,Removing a trustee,Juvenile
+2151.75,Delegation of powers and duties to board of trustees,Juvenile
+2151.76,"Joint board of county commissioners has authority for choice, construction and furnishing of facility",Juvenile
+2151.77,Expenses paid by each county,Juvenile
+2151.78,County withdrawing from district,Juvenile
+2151.79,Fiscal officer of district,Juvenile
+2151.80,Expenses of board members,Juvenile
+2151.81,Independent living services definitions,Juvenile
+2151.82,Services to be based on evaluation of strengths and weaknesses of child,Juvenile
+2151.83,Jointly prepared written agreement with young adult to provide independent living services,Juvenile
+2151.84,Department of children and youth to establish model agreements,Juvenile
+2151.85,"Unmarried, unemancipated minor may seek abortion without notice to parent, guardian or custodian",Juvenile
+2151.86,Criminal records check,Juvenile
+2151.87,"Prohibiting child from possessing, using, purchasing or receiving tobacco products",Juvenile
+2151.88,Immunity from liability for damage resulting from forcible entry of a motor vehicle for purpose of removing a minor,Juvenile
+2151.90,Definitions for R.C. 2151.90 to 2151.9011,Juvenile
+2151.99,Penalty,Juvenile
+2151.141,"Written request for records relating to alleged abused, neglected or dependent child",Juvenile
+2151.142,Residential addresses of personnel of public children services agency or a private child placing agency to be confidential information,Juvenile
+2151.151,Contract for supervisory and other services for children on probation,Juvenile
+2151.152,Reimbursement of court from department of children and youth,Juvenile
+2151.211,Employer may not penalize employee for being subpoenaed before juvenile court,Juvenile
+2151.231,Order requiring support of child without regard to marital status of child's parents,Juvenile
+2151.232,Order requiring support of child where acknowledgment of parentage is not yet final,Juvenile
+2151.233,Jurisdiction of juvenile court,Juvenile
+2151.234,Construction of R.C. 2151.233,Juvenile
+2151.235,Transfer of jurisdiction,Juvenile
+2151.236,Orders affecting child subject to support order by common pleas court,Juvenile
+2151.271,Transfer to juvenile court of child's residence,Juvenile
+2151.272,"Release or transfer of records for child who is alleged or adjudicated an abused, neglected, or dependent child",Juvenile
+2151.281,Guardian ad litem,Juvenile
+2151.311,Procedure upon taking child into custody,Juvenile
+2151.312,"Facilities for holding unruly, neglected, abused or dependent child",Juvenile
+2151.313,"Fingerprints, photographs require consent of juvenile judge",Juvenile
+2151.314,Hearing on detention or shelter care,Juvenile
+2151.315,"Participation in extracurricular, enrichment, and social activities",Juvenile
+2151.316,Foster youth bill of rights,Juvenile
+2151.331,"Options for placement of alleged or adjudicated abused, neglected, dependent or unruly child",Juvenile
+2151.352,Right to counsel,Juvenile
+2151.353,"Orders of disposition of abused, neglected or dependent child",Juvenile
+2151.354,Orders of disposition of unruly child,Juvenile
+2151.355,Sealing of juvenile court records - definitions,Juvenile
+2151.356,Sealing of juvenile court records,Juvenile
+2151.357,Response respecting sealed records - index - limited inspection,Juvenile
+2151.358,Expungement of sealed records,Juvenile
+2151.359,"Order restraining or controlling conduct of parent, guardian, or custodian",Juvenile
+2151.361,Order requiring parents to pay support where adopted child is placed into temporary custody or committed,Juvenile
+2151.362,Determining school district to bear cost of educating child - change of residence,Juvenile
+2151.411,Placing siblings together,Juvenile
+2151.412,Case plans,Juvenile
+2151.413,Motion requesting permanent custody,Juvenile
+2151.414,Hearing on motion requesting permanent custody,Juvenile
+2151.415,Motion for order of disposition upon termination of temporary custody order,Juvenile
+2151.416,Semiannual administrative review of case plans,Juvenile
+2151.417,"Review of child's placement, custody arrangement or case plan",Juvenile
+2151.419,Court's determination as to whether agency made reasonable efforts to prevent removal or to return child safely home,Juvenile
+2151.421,Reporting child abuse or neglect,Juvenile
+2151.422,Child living in domestic violence or homeless shelter,Juvenile
+2151.423,Disclosure of confidential information to protect children,Juvenile
+2151.424,"Notice and opportunity to present evidence to foster caregiver, relative, or prospective adoptive parent",Juvenile
+2151.425,Children's advocacy center - definitions,Juvenile
+2151.426,Children's advocacy center - memorandum of understanding,Juvenile
+2151.427,Children's advocacy center - multidisciplinary team,Juvenile
+2151.428,Children's advocacy center - interagency agreement,Juvenile
+2151.429,Traditional and alternative response pathways,Juvenile
+2151.451,Jurisdiction over emancipated young adult,Juvenile
+2151.452,Duties of juvenile court,Juvenile
+2151.453,Suspension of payments for foster care,Juvenile
+2151.454,Supporting documents for court determination,Juvenile
+2151.455,Representation,Juvenile
+2151.461,Hospital visit - notification and response,Juvenile
+2151.462,Hospital visit - report,Juvenile
+2151.463,Law enforcement interaction - notification to residential facility and agency,Juvenile
+2151.464,Law enforcement interaction with police report - notification to DCY,Juvenile
+2151.465,Rules,Juvenile
+2151.466,Delinquent child charges - notification,Juvenile
+2151.467,Monthly agency visit to residential facility,Juvenile
+2151.468,Mandatory review of child's placement,Juvenile
+2151.469,Agency 24-hour emergency on-call procedure,Juvenile
+2151.541,Computerizing court of paying cost of computerized legal research,Juvenile
+2151.542,Cancellation of uncollectible debts,Juvenile
+2151.551,Contents of communication to foster caregiver in another county and school district,Juvenile
+2151.552,Written information to foster caregiver in another county and school district,Juvenile
+2151.553,School district procedure for receiving information,Juvenile
+2151.554,Information to juvenile court in county other than county of residence,Juvenile
+2151.651,Application for state assistance for juvenile facilities,Juvenile
+2151.653,"Program of education for youths admitted to school, forestry camp, or other facility",Juvenile
+2151.654,Agreement other county,Juvenile
+2151.655,Issuing general obligation securities - joint district financing agreements,Juvenile
+2151.901,Alteration by court of host family agreement,Juvenile
+2151.902,Hosting may not be basis of complaint by agency,Juvenile
+2151.903,Presumption; rebuttal,Juvenile
+2151.904,Information provided to qualified organization,Juvenile
+2151.906,Felony conviction,Juvenile
+2151.907,Confidentiality of records check,Juvenile
+2151.908,Policies and procedures for employees,Juvenile
+2151.909,Policies and procedures for host families; Training,Juvenile
+2151.3510,Notice to public children services agency of intended commitment order,Juvenile
+2151.3514,Order requiring parent or other caregiver to submit to assessment and treatment from alcohol and drug addiction program,Juvenile
+2151.3515,Desertion of child definitions,Juvenile
+2151.3516,Delivery of child by parent to persons authorized to take possession of deserted child,Juvenile
+2151.3517,Parties taking possession of deserted child,Juvenile
+2151.3518,Duties upon taking possession of deserted child,Juvenile
+2151.3519,Duties of public children services agency upon receiving notice of deserted child,Juvenile
+2151.3521,Emergency hearing to determine whether child is deserted child,Juvenile
+2151.3522,Order committing child to temporary custody,Juvenile
+2151.3523,Court to treat deserted child as neglected child,Juvenile
+2151.3524,Agency granted temporary custody to treat deserted child as neglected child,Juvenile
+2151.3525,Immunity of parent and of person or entity taking possession of deserted child,Juvenile
+2151.3526,Parent's absolute right to anonymity,Juvenile
+2151.3527,Medical information forms,Juvenile
+2151.3528,Parent completion of medical information forms,Juvenile
+2151.3530,Activities prohibited to person taking possession of deserted child,Juvenile
+2151.3531,DNA testing of person seeking reunification with deserted child,Juvenile
+2151.3532,Rules governing newborn safety incubators,Juvenile
+2151.3533,Supervision of newborn safety incubators,Juvenile
+2151.4115,Definitions regarding locating and engaging kinship caregiver,Juvenile
+2151.4116,Intensive efforts required for locating and engaging kinship caregiver,Juvenile
+2151.4117,Court review of intensive efforts,Juvenile
+2151.4118,Court determination intensive efforts not required,Juvenile
+2151.4119,Findings supporting court determination,Juvenile
+2151.4120,Current caregiver equal to kin regarding permanency,Juvenile
+2151.4121,Disqualifying kin unwilling or not interested in providing permanency,Juvenile
+2151.4122,Continued search to locate and engage kinship caregiver permitted,Juvenile
+2151.4210,Child abuse or neglect investigation relating to armed forces,Juvenile
+2151.4220,Memorandum of understanding required; signatories,Juvenile
+2151.4221,"Memorandum of understanding purpose, content",Juvenile
+2151.4222,Memorandum of understanding biennial review and update,Juvenile
+2151.4223,Consequences limited for failure to follow memorandum of understanding,Juvenile
+2151.4225,"Memorandum of understanding biennial review, approval by county commissioners",Juvenile
+2151.4226,Deadline for biennial review and resolution,Juvenile
+2151.4228,Model memorandum of understanding,Juvenile
+2151.4229,Memorandum of understanding audit,Juvenile
+2151.4230,Compliance determination,Juvenile
+2151.4231,Compliance assurance plan,Juvenile
+2151.4232,Memorandum of understanding effective when determined compliant,Juvenile
+2151.4233,"Compliant, noncompliant counties on department of job and family services website",Juvenile
+2151.4234,Memorandum of understanding publication on county website,Juvenile
+2151.4610,Community organization services - notification,Juvenile
+2151.9010,Host family not subject to certification or supervision,Juvenile
+2151.9011,Duty to report actual or threatened harm,Juvenile
+2152.01,Purpose of juvenile dispositions,Juvenile
+2152.02,Delinquent children - juvenile traffic offender definitions,Juvenile
+2152.03,Cases involving child originate in juvenile court,Juvenile
+2152.04,Confining delinquent child for purposes of preparing social history,Juvenile
+2152.10,Mandatory and discretionary transfers,Juvenile
+2152.11,Dispositions for child adjudicated delinquent,Juvenile
+2152.12,Transfer of cases,Juvenile
+2152.13,Serious youthful dispositional sentence and serious youthful offender dispositional sentence,Juvenile
+2152.14,Motion to invoke adult portion of dispositional sentence,Juvenile
+2152.16,Committing delinquent child to youth services department for secure confinement,Juvenile
+2152.17,Committing delinquent child to youth services department if guilty of specification,Juvenile
+2152.18,No designation of institution of commitment,Juvenile
+2152.19,Disposition orders,Juvenile
+2152.20,Authorized dispositions for delinquent child or juvenile traffic offender,Juvenile
+2152.021,Complaint of delinquency or juvenile traffic offender,Juvenile
+2152.21,Dispositions for child adjudicated juvenile traffic offender,Juvenile
+2152.022,Mandatory and discretionary transfers - meaning of case,Juvenile
+2152.22,Child committed to legal custody of department of youth services; judicial release,Juvenile
+2152.26,Places of detention for delinquent child or juvenile traffic offender,Juvenile
+2152.41,Detention facilities,Juvenile
+2152.42,Superintendent and other employees of facility,Juvenile
+2152.43,Application for assistance to department of youth services,Juvenile
+2152.44,Board of trustees of district detention facility,Juvenile
+2152.51,Definitions regarding child competency proceedings,Juvenile
+2152.52,Determination of competency,Juvenile
+2152.53,Time periods for determination; hearing,Juvenile
+2152.54,Evaluators; qualifications,Juvenile
+2152.55,Evaluation process,Juvenile
+2152.56,Competency assessment report,Juvenile
+2152.57,Extension for filing report; admission into evidence; expenses; objections,Juvenile
+2152.58,Hearing to determine competency,Juvenile
+2152.59,Procedure upon determination of competency or lack of competency,Juvenile
+2152.61,"Court orders restraining or controlling conduct of parent, guardian or other custodian",Juvenile
+2152.67,Jury trial for adults,Juvenile
+2152.71,Maintenance and custody of records,Juvenile
+2152.72,Information to be provided to foster caregivers or prospective adoptive parents,Juvenile
+2152.73,Prevention and control of juvenile delinquency,Juvenile
+2152.74,DNA specimen collection procedure for adjudicated delinquents,Juvenile
+2152.75,Restraining pregnant children,Juvenile
+2152.81,Deposing child victim,Juvenile
+2152.82,Juvenile sex offender registration as part of dispositional order,Juvenile
+2152.83,Juvenile sex offender registration at time of release from secure facility,Juvenile
+2152.84,Hearing to review effectiveness of disposition and of any treatment,Juvenile
+2152.85,Petition for reclassification or declassification,Juvenile
+2152.86,Juvenile offender registrants - dispositional orders,Juvenile
+2152.99,Penalty,Juvenile
+2152.121,Retention of jurisdiction for purposes of making disposition,Juvenile
+2152.191,Delinquent child subject to sex offender registration and notification law,Juvenile
+2152.192,Notice that child has committed sexually oriented offense,Juvenile
+2152.201,"Imposing costs of investigating, prosecuting and responding to acts of terrorism",Juvenile
+2152.202,Reimbursement for costs of positive drug tests,Juvenile
+2152.203,Restitution,Juvenile
+2152.811,Taking testimony of a victim with a developmental disability,Juvenile
+2152.831,Juvenile sex offenders - tier classification hearing,Juvenile
+2152.851,Effect of redesignation of offense,Juvenile
+2903.01,Aggravated murder,Criminal
+2903.02,Murder,Criminal
+2903.03,Voluntary manslaughter,Criminal
+2903.04,Involuntary manslaughter,Criminal
+2903.05,Negligent homicide,Criminal
+2903.06,Aggravated vehicular homicide - vehicular homicide - vehicular manslaughter,Criminal
+2903.08,Aggravated vehicular assault; vehicular assault,Criminal
+2903.09,Unlawful termination of another's pregnancy,Criminal
+2903.10,"Functionally impaired person, caretaker defined",Criminal
+2903.11,Felonious assault,Criminal
+2903.12,Aggravated assault,Criminal
+2903.13,Assault,Criminal
+2903.14,Negligent assault,Criminal
+2903.15,Permitting child abuse,Criminal
+2903.16,Failing to provide for a functionally impaired person,Criminal
+2903.18,Strangulation,Criminal
+2903.21,Aggravated menacing,Criminal
+2903.22,Menacing,Criminal
+2903.31,Hazing,Criminal
+2903.32,Female genital mutilation,Criminal
+2903.33,Patient abuse and neglect in care facilities definitions,Criminal
+2903.34,Patient abuse or neglect,Criminal
+2903.35,Filing false patient abuse or neglect complaints,Criminal
+2903.36,Whistleblower protection,Criminal
+2903.37,License revocation upon conviction,Criminal
+2903.041,Reckless homicide,Criminal
+2903.41,Definitions related to violent offender database,Criminal
+2903.42,Enrollment in violent offender database; presumption,Criminal
+2903.43,Offenders who have VOD duties; enrollment,Criminal
+2903.44,Out-of-state offenders with VOD duties; enrollment,Criminal
+2903.081,Warning signs in construction zones,Criminal
+2903.211,Menacing by stalking,Criminal
+2903.212,Bail for violations of certain protection orders,Criminal
+2903.213,Motion for and hearing on protection order,Criminal
+2903.214,Petition for protection order in menacing by stalking cases,Criminal
+2903.215,Protection orders on behalf of organization,Criminal
+2903.216,Illegal use of a tracking device or application,Criminal
+2903.311,Reckless failure to immediately report knowledge of hazing,Criminal
+2903.341,Patient endangerment,Criminal
+2903.421,Qualifying out-of-state offenders,Criminal
+2905.01,Kidnapping,Criminal
+2905.02,Abduction,Criminal
+2905.03,Unlawful restraint,Criminal
+2905.05,Criminal child enticement,Criminal
+2905.11,Extortion and sexual extortion,Criminal
+2905.12,Coercion,Criminal
+2905.21,Extortionate extension of credit - criminal usury definitions,Criminal
+2905.22,Extortionate extension of credit - criminal usury,Criminal
+2905.23,Probable cause to believe that extension of credit was extortionate,Criminal
+2905.24,Evidence showing an implicit threat as means of collection,Criminal
+2905.31,Definitions for sections 2905.31 to 2905.33,Criminal
+2905.32,Trafficking in persons,Criminal
+2905.33,Unlawful conduct with respect to documents,Criminal
+2905.111,Sexual extortion - person or child as victim,Criminal
+2907.01,Sex offenses general definitions,Criminal
+2907.02,Rape,Criminal
+2907.03,Sexual battery,Criminal
+2907.04,Unlawful sexual conduct with minor,Criminal
+2907.05,Gross sexual imposition,Criminal
+2907.06,Sexual imposition,Criminal
+2907.07,Importuning,Criminal
+2907.08,Voyeurism,Criminal
+2907.09,Public indecency,Criminal
+2907.10,Preliminary polygraph test of sex offense victim,Criminal
+2907.11,Suppression of names of victim and offender and details of the alleged offense,Criminal
+2907.13,Fraudulent assisted reproduction,Criminal
+2907.14,Reporting fraudulent assisted reproduction to professional licensing board,Criminal
+2907.15,Withholding moneys needed for restitution to crime victims from state retirement funds,Criminal
+2907.17,Notice of indictment of mental health professional sent to regulatory or licensing board or agency,Criminal
+2907.18,Notice of conviction of mental health professional sent to regulatory or licensing board or agency,Criminal
+2907.19,Commercial sexual exploitation of a minor,Criminal
+2907.21,Compelling prostitution,Criminal
+2907.22,Promoting prostitution,Criminal
+2907.23,Enticement or solicitation to patronize a prostitute; procurement of a prostitute for another,Criminal
+2907.24,Soliciting; solicitation after a positive HIV test,Criminal
+2907.25,Prostitution - after positive HIV test,Criminal
+2907.26,Rules of evidence in brothel and prostitution cases,Criminal
+2907.27,Testing and treatment for venereal diseases and HIV,Criminal
+2907.28,Payment for medical examination and test of any victim or accused,Criminal
+2907.29,Hospital emergency services for victims of sexual offenses,Criminal
+2907.30,Interview of victim by crisis intervention trained officer,Criminal
+2907.31,Disseminating matter harmful to juveniles,Criminal
+2907.32,Pandering obscenity,Criminal
+2907.33,Deception to obtain matter harmful to juveniles,Criminal
+2907.34,Compelling acceptance of objectionable materials,Criminal
+2907.35,Presumptions in obscenity cases,Criminal
+2907.36,Declaratory judgment action,Criminal
+2907.37,Injunction - nuisance,Criminal
+2907.38,Permitting unlawful operation of viewing booths depicting sexual conduct,Criminal
+2907.39,Permitting juvenile on premises of adult entertainment establishment - use of false information to gain entry,Criminal
+2907.40,Illegally operating sexually oriented business,Criminal
+2907.41,Person charged with subsequent sexual offense - setting of bail,Criminal
+2907.071,Grooming,Criminal
+2907.171,Prosecutor's failure to give notice,Criminal
+2907.231,Engaging in prostitution,Criminal
+2907.241,Loitering to engage in solicitation - solicitation after positive HIV test,Criminal
+2907.311,Displaying matter harmful to juveniles,Criminal
+2907.321,Pandering obscenity involving a minor or impaired person,Criminal
+2907.322,Pandering sexually oriented matter involving a minor or impaired person,Criminal
+2907.323,Illegal use of minor or impaired person in nudity-oriented material or performance,Criminal
+2909.01,Arson and related offenses definitions,Criminal
+2909.02,Aggravated arson,Criminal
+2909.03,Arson,Criminal
+2909.04,Disrupting public services,Criminal
+2909.05,Vandalism,Criminal
+2909.06,Criminal damaging or endangering,Criminal
+2909.07,Criminal mischief,Criminal
+2909.08,Endangering aircraft or airport operations,Criminal
+2909.09,Vehicular vandalism,Criminal
+2909.10,Railroad vandalism - criminal trespass - interference with operation of train,Criminal
+2909.11,Property value or amount of physical harm findings,Criminal
+2909.13,Definitions for RC sections 2909.13 to 2909.15,Criminal
+2909.14,Arson offender registration; notice,Criminal
+2909.15,Arson offender registration; time frames; form,Criminal
+2909.21,Terrorism definitions,Criminal
+2909.22,Soliciting or providing support for act of terrorism,Criminal
+2909.23,Making terroristic threat,Criminal
+2909.24,Terrorism,Criminal
+2909.25,"Expenses of investigation, prosecution, response costs of terrorism",Criminal
+2909.26,"Criminal possession of chemical, biological, radiological, or nuclear weapon or explosive device",Criminal
+2909.27,"Criminal use of chemical, biological, radiological, or nuclear weapon or explosive device",Criminal
+2909.28,Illegal assembly or possession of chemicals or substances for manufacture of prohibited weapons,Criminal
+2909.29,Money laundering in support of terrorism,Criminal
+2909.30,Notification of homeland security department of conviction of suspected alien,Criminal
+2909.31,Person entering transportation facility to show identification,Criminal
+2909.081,Interfering with operation of aircraft with laser,Criminal
+2909.101,Railroad grade crossing device vandalism,Criminal
+2911.01,Aggravated robbery,Criminal
+2911.02,Robbery,Criminal
+2911.10,Trespass as element of offense,Criminal
+2911.11,Aggravated burglary,Criminal
+2911.12,Burglary,Criminal
+2911.13,Breaking and entering,Criminal
+2911.21,Criminal trespass,Criminal
+2911.23,Criminal trespass on place of public amusement,Criminal
+2911.31,Safecracking,Criminal
+2911.32,Tampering with coin machines,Criminal
+2911.211,Aggravated trespass,Criminal
+2913.01,Theft and fraud general definitions,Criminal
+2913.02,Theft,Criminal
+2913.03,Unauthorized use of a vehicle,Criminal
+2913.04,"Unauthorized use of property - computer, cable, or telecommunication property",Criminal
+2913.05,Telecommunications fraud,Criminal
+2913.06,Unlawful use of telecommunications device,Criminal
+2913.07,Motion picture piracy,Criminal
+2913.08,Organized theft of retail property,Criminal
+2913.11,Passing bad checks,Criminal
+2913.021,Theft of mail,Criminal
+2913.21,Misuse of credit cards,Criminal
+2913.30,Counterfeiting,Criminal
+2913.31,Forgery - Forging identification cards or selling or distributing forged identification cards,Criminal
+2913.32,Criminal simulation,Criminal
+2913.33,Making or using slugs,Criminal
+2913.34,Trademark counterfeiting,Criminal
+2913.40,Medicaid fraud,Criminal
+2913.041,Possession or sale of unauthorized cable television device,Criminal
+2913.41,Defrauding a rental agency or hostelry,Criminal
+2913.42,Tampering with records,Criminal
+2913.43,Securing writings by deception,Criminal
+2913.44,Personating an officer,Criminal
+2913.45,Defrauding creditors,Criminal
+2913.46,Illegal use of supplemental nutrition assistance or WIC program benefits,Criminal
+2913.47,Insurance fraud,Criminal
+2913.48,Workers' compensation fraud,Criminal
+2913.49,Identity fraud,Criminal
+2913.51,Receiving stolen property,Criminal
+2913.61,Finding of value of stolen property as part of verdict,Criminal
+2913.71,Felony of fifth degree regardless of the value of the property,Criminal
+2913.72,Evidence of an intent to commit theft of rented property,Criminal
+2913.73,Evidence that victim lacked capacity to give consent,Criminal
+2913.82,Towing or storage fees to be paid by person convicted of theft offense that involves motor vehicle,Criminal
+2913.401,Medicaid eligibility fraud,Criminal
+2913.421,Illegally transmitting multiple commercial electronic mail messages (spamming) - unauthorized access of computer,Criminal
+2913.441,Unlawful display of law enforcement emblem,Criminal
+2915.01,Gambling definitions,Criminal
+2915.02,Gambling,Criminal
+2915.03,Operating a gambling house,Criminal
+2915.04,Public gaming,Criminal
+2915.05,Cheating - corrupting sports,Criminal
+2915.06,Skill-based amusement machine prohibited conduct,Criminal
+2915.07,Conducting illegal bingo,Criminal
+2915.08,"Application for license to conduct bingo, instant bingo",Criminal
+2915.09,Illegally conducting bingo game - rules,Criminal
+2915.10,Bingo records retention,Criminal
+2915.11,Bingo game operator requirements,Criminal
+2915.12,Bingo games conducted for amusement only,Criminal
+2915.13,Veteran's organization or fraternal organization authorized to conduct bingo session,Criminal
+2915.14,Illegal electronic instant bingo conduct,Criminal
+2915.15,"Approval, inspection, removal from service of electronic instant bingo system",Criminal
+2915.061,Regulation of skill-based amusement machines,Criminal
+2915.081,Illegally operating as distributor of bingo supplies,Criminal
+2915.082,Illegally operating as manufacturer of bingo supplies,Criminal
+2915.091,Illegally conducting instant bingo - rules,Criminal
+2915.092,Raffles - Illegal conduct of raffle - penalties,Criminal
+2915.093,Charitable organization conducting instant bingo other than at bingo session at location where primary activity is instant bingo,Criminal
+2915.094,Owner or lessor conducting instant bingo other than at bingo session at location where primary activity is instant bingo,Criminal
+2915.095,Standard contract for the conduct of instant bingo other than at bingo session,Criminal
+2915.101,Distributing net profit from proceeds of sale of instant bingo,Criminal
+2917.01,Inciting to violence,Criminal
+2917.02,Aggravated riot,Criminal
+2917.03,Riot,Criminal
+2917.04,Failure to disperse,Criminal
+2917.05,Use of force to suppress riot or in protecting persons or property during riot,Criminal
+2917.11,Disorderly conduct,Criminal
+2917.12,Disturbing a lawful meeting,Criminal
+2917.13,Misconduct at emergency,Criminal
+2917.14,Unlawfully impeding public passage of an emergency service responder,Criminal
+2917.21,Telecommunications harassment,Criminal
+2917.031,Required proof for offenses of riot and aggravated riot,Criminal
+2917.31,Inducing panic,Criminal
+2917.32,Making false alarms,Criminal
+2917.33,Unlawful possession or use of a hoax weapon of mass destruction,Criminal
+2917.40,Safety at live entertainment performances,Criminal
+2917.41,Misconduct involving public transportation system,Criminal
+2917.46,Unauthorized use of a block parent symbol,Criminal
+2917.47,Improperly handling infectious agents,Criminal
+2917.211,Dissemination of image of another person,Criminal
+2917.321,Swatting,Criminal
+2919.01,Bigamy,Criminal
+2919.10,Abortion related to finding of down syndrome,Criminal
+2919.11,Abortion defined,Criminal
+2919.12,Unlawful abortion,Criminal
+2919.13,Abortion manslaughter; failure to render medical care to an infant born alive; civil action,Criminal
+2919.14,Abortion trafficking,Criminal
+2919.15,Dismemberment abortion,Criminal
+2919.16,Post-viability abortion definitions,Criminal
+2919.17,Terminating or attempting to terminate human pregnancy after viability,Criminal
+2919.18,Failure to perform viability testing,Criminal
+2919.19,Definitions for ORC sections 2919.191 to 2919.199,Criminal
+2919.20,Definitions,Criminal
+2919.21,Nonsupport or contributing to nonsupport of dependents,Criminal
+2919.22,Endangering children,Criminal
+2919.23,Interference with custody,Criminal
+2919.24,Contributing to unruliness or delinquency of a child,Criminal
+2919.25,Domestic violence,Criminal
+2919.26,Motion for and hearing on protection order,Criminal
+2919.27,Violating protection order,Criminal
+2919.101,Abortion report,Criminal
+2919.121,Unlawful abortion upon minor,Criminal
+2919.122,Application of unlawful abortion on a minor law,Criminal
+2919.123,Unlawful distribution of an abortion-inducing drug,Criminal
+2919.124,Unlawful performance of a drug-induced abortion,Criminal
+2919.151,Partial birth feticide,Criminal
+2919.171,Physician's report to department on attempted or completed abortions,Criminal
+2919.191,Applicability,Criminal
+2919.192,Determination of presence of fetal heartbeat,Criminal
+2919.193,Determination of detectable fetal heartbeat; penalties,Criminal
+2919.194,Procedures after detection of fetal heartbeat,Criminal
+2919.195,Performance of abortion after detection of fetal heartbeat; penalty,Criminal
+2919.196,Documentation of reasons for abortion,Criminal
+2919.197,Contraceptives,Criminal
+2919.198,Immunity of pregnant woman,Criminal
+2919.199,Civil action for wrongful death of unborn child,Criminal
+2919.201,Abortion after gestational age of 20 weeks,Criminal
+2919.202,Report by physician,Criminal
+2919.203,Determination of gestational age; violation,Criminal
+2919.204,Ohio pain-capable unborn child protection act litigation fund,Criminal
+2919.205,Construction of laws,Criminal
+2919.222,Parental education neglect,Criminal
+2919.223,Child and family child care facilities - definitions,Criminal
+2919.224,Misrepresentation relating to provision of child care,Criminal
+2919.225,Disclosure and notice regarding death or injury of child in facility,Criminal
+2919.226,Child care disclosure form - immunity from prosecution,Criminal
+2919.227,Information to be provided to prospective users - notice of death of child,Criminal
+2919.231,Interfering with action to issue or modify support order,Criminal
+2919.251,Bail in certain domestic violence cases,Criminal
+2919.271,Evaluation of mental condition of defendant,Criminal
+2919.272,Protection order issued by court of another state,Criminal
+2919.1912,Forfeiture for violations,Criminal
+2919.1913,Human Rights and Heartbeat Protection Act,Criminal
+2921.01,Offenses against justice and public administration general definitions,Criminal
+2921.02,Bribery,Criminal
+2921.03,Intimidation,Criminal
+2921.04,"Intimidation of attorney, victim or witness in criminal case or delinquent child action proceeding",Criminal
+2921.05,Retaliation,Criminal
+2921.11,Perjury,Criminal
+2921.12,Tampering with evidence,Criminal
+2921.13,Falsification - in theft offense - to purchase firearm,Criminal
+2921.14,Making or causing false report of child abuse or neglect,Criminal
+2921.15,Making false allegation of peace officer misconduct,Criminal
+2921.21,Compounding a crime,Criminal
+2921.22,Failure to report a crime or knowledge of a death or burn injury,Criminal
+2921.23,Failure to aid a law enforcement officer,Criminal
+2921.24,Disclosure of confidential information,Criminal
+2921.25,Peace officer's home address not to be disclosed during trial,Criminal
+2921.29,Failure to disclose personal information,Criminal
+2921.31,Obstructing official business,Criminal
+2921.32,Obstructing justice,Criminal
+2921.33,Resisting arrest,Criminal
+2921.34,Escape,Criminal
+2921.35,Aiding escape or resistance to lawful authority,Criminal
+2921.36,"Illegal conveyance of weapons, drugs or other prohibited items onto grounds of detention facility or institution",Criminal
+2921.37,Arrest powers of person in charge of detention facility,Criminal
+2921.38,Harassment by inmate,Criminal
+2921.41,Theft in office,Criminal
+2921.42,Having an unlawful interest in a public contract,Criminal
+2921.43,Soliciting or accepting improper compensation,Criminal
+2921.44,Dereliction of duty,Criminal
+2921.45,Interfering with civil rights,Criminal
+2921.51,Impersonation of peace officer or private police officer,Criminal
+2921.52,Using sham legal process,Criminal
+2921.321,Assaulting or harassing police dog or horse or service dog,Criminal
+2921.331,Failure to comply with order or signal of police officer,Criminal
+2921.421,"Prosecuting attorney, elected chief legal officer, or township law director appointment of assistants or employees",Criminal
+2923.01,Conspiracy,Criminal
+2923.02,Attempt to commit an offense,Criminal
+2923.03,Complicity,Criminal
+2923.04,Improper organizational involvement with a critical infrastructure facility,Criminal
+2923.11,Weapons control definitions,Criminal
+2923.12,Carrying concealed weapons,Criminal
+2923.13,Having weapons while under disability,Criminal
+2923.14,Relief from weapons disability,Criminal
+2923.15,Using weapons while intoxicated,Criminal
+2923.16,Improperly handling firearms in a motor vehicle,Criminal
+2923.17,Unlawful possession of dangerous ordnance - illegally manufacturing or processing explosives,Criminal
+2923.18,License or temporary permit to possess or use dangerous ordnance,Criminal
+2923.19,Failure to secure dangerous ordnance,Criminal
+2923.20,Unlawful transaction in weapons,Criminal
+2923.21,Improperly furnishing firearms to minor,Criminal
+2923.23,Voluntary surrender of firearms and dangerous ordnance,Criminal
+2923.24,Possessing criminal tools,Criminal
+2923.25,Gun locking devices,Criminal
+2923.26,Guidelines for voluntary storage of firearms,Criminal
+2923.31,Corrupt activity definitions,Criminal
+2923.32,Engaging in pattern of corrupt activity,Criminal
+2923.34,Civil proceeding seeking relief from any person whose conduct constitutes corrupt activity,Criminal
+2923.36,Corrupt activity lien notice,Criminal
+2923.41,Criminal gang definitions,Criminal
+2923.42,Participating in criminal gang,Criminal
+2923.43,Property used or occupied by a criminal gang,Criminal
+2923.44,Criminal forfeiture of property relating to gang participation,Criminal
+2923.111,Concealed carry by a qualifying adult,Criminal
+2923.121,"Possession of firearm in beer liquor permit premises - prohibition, exceptions",Criminal
+2923.122,Illegal conveyance or possession of deadly weapon or dangerous ordnance or of object indistinguishable from firearm in school safety zone,Criminal
+2923.123,Illegal conveyance of deadly weapon or dangerous ordnance into courthouse - illegal possession or control in courthouse,Criminal
+2923.124,Concealed handgun definitions,Criminal
+2923.125,Application and licensing process,Criminal
+2923.126,Duties of licensed individual,Criminal
+2923.127,Challenging denial of license,Criminal
+2923.128,Suspension and revocation of license,Criminal
+2923.129,Immunity,Criminal
+2923.131,Possession of deadly weapon while under detention,Criminal
+2923.132,Use of firearm or dangerous ordnance by violent career criminal,Criminal
+2923.161,"Improperly discharging firearm at or into a habitation, in a school safety zone or with intent to cause harm or panic to persons in a school building or at a school function",Criminal
+2923.162,Discharge of firearm on or near prohibited premises,Criminal
+2923.163,Surrender of firearm to law enforcement officer,Criminal
+2923.201,Possessing a defaced firearm,Criminal
+2923.211,Underage purchase of firearm or handgun,Criminal
+2923.241,Hidden compartments in vehicles,Criminal
+2923.1210,Transporting or storing a firearm or ammunition on private property,Criminal
+2923.1211,Falsification of concealed handgun license - possessing a revoked or suspended concealed handgun license,Criminal
+2923.1212,Signage prohibiting concealed handguns,Criminal
+2923.1213,Temporary emergency license,Criminal
+2923.1214,Authority of law enforcement officer or investigator to carry weapon in establishment serving the public,Criminal
+2925.01,Drug offense definitions,Criminal
+2925.02,Corrupting another with drugs,Criminal
+2925.03,"Trafficking, aggravated trafficking in drugs",Criminal
+2925.04,Illegal manufacture of drugs - illegal cultivation of marihuana - methamphetamine offenses,Criminal
+2925.05,"Funding, aggravated funding of drug or marihuana trafficking",Criminal
+2925.06,Illegal administration or distribution of anabolic steroids,Criminal
+2925.09,Unapproved drugs - dangerous drug offenses involving livestock,Criminal
+2925.11,Possession of controlled substances,Criminal
+2925.12,Possessing drug abuse instruments,Criminal
+2925.13,Permitting drug abuse,Criminal
+2925.14,Illegal use or possession of drug paraphernalia,Criminal
+2925.22,Deception to obtain a dangerous drug,Criminal
+2925.23,Illegal processing of drug documents,Criminal
+2925.24,Tampering with drugs,Criminal
+2925.31,Abusing harmful intoxicants,Criminal
+2925.32,Trafficking in harmful intoxicants - improperly dispensing or distributing nitrous oxide,Criminal
+2925.33,Possessing nitrous oxide in motor vehicle,Criminal
+2925.34,Sale of pure caffeine product,Criminal
+2925.36,Illegal dispensing of drug samples,Criminal
+2925.37,Counterfeit controlled substance offenses,Criminal
+2925.38,Notice of conviction of professionally licensed person sent to regulatory or licensing board or agency,Criminal
+2925.041,Illegal assembly or possession of chemicals for manufacture of drugs,Criminal
+2925.42,Criminal forfeiture of property relating to felony drug abuse offense,Criminal
+2925.50,Conviction or acquittal under federal drug abuse control laws bar to state prosecution,Criminal
+2925.51,Evidence in drug offense cases,Criminal
+2925.52,Motion for destruction of chemicals for methamphetamine production,Criminal
+2925.55,Unlawful purchase of pseudoephedrine or ephedrine product,Criminal
+2925.56,Unlawful sale of pseudoephedrine or ephedrine product,Criminal
+2925.57,Illegal pseudoephedrine or ephedrine product transaction scan,Criminal
+2925.58,Unlawful sale of pseudoephedrine product to minor - affirmative defense,Criminal
+2925.62,Illegally selling dextromethorphan,Criminal
+2925.64,Immunity for administering epinephrine,Criminal
+2925.141,Illegal use or possession of marihuana drug paraphernalia,Criminal
+2925.511,Reimbursement for costs of positive drug tests,Criminal
+2927.01,Abuse of a corpse,Criminal
+2927.02,Illegal distribution of or permitting children to use cigarettes or other tobacco or alternative nicotine products,Criminal
+2927.03,"Injure, intimidate, or interfere with fair housing rights",Criminal
+2927.11,Desecration,Criminal
+2927.12,Ethnic intimidation,Criminal
+2927.13,Selling or donating contaminated blood,Criminal
+2927.15,Privilege or consent to collect bodily substance,Criminal
+2927.17,Advertising of massage services,Criminal
+2927.021,Engaging in illegal tobacco or alternative nicotine product transaction scan,Criminal
+2927.21,Receiving proceeds of an offense subject to forfeiture proceedings,Criminal
+2927.022,"Affirmative defense to cigarette, tobacco or alternative nicotine product charge",Criminal
+2927.22,"Soliciting or accepting a fee to remove, correct, modify, or refrain from publishing criminal record information; violation",Criminal
+2927.023,Unlawful transportation of tobacco products,Criminal
+2927.024,Furnishing false information; penalty,Criminal
+2927.24,"Contaminating substance for human consumption or use or contamination with hazardous chemical, biological, or radioactive substance - spreading false report of contamination",Criminal
+2927.27,Illegal bail bond agent practices,Criminal

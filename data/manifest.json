@@ -1,0 +1,24 @@
+{
+  "format": 1,
+  "name": "buckeyebill-data",
+  "version": "2026.10.12.1",
+  "created": "2026-10-12T23:18:36.747Z",
+  "notes": "A-RRS - 2026-10-12 ADDED UNCLASSIFIED TO DEGREE",
+  "files": [
+    {
+      "name": "places.csv",
+      "bytes": 1190645,
+      "sha256": "f0495e56cf5fd2063a6e8dce73ade5a89c207b65f9d31a55489739170dd01dfe"
+    },
+    {
+      "name": "lists.json",
+      "bytes": 2270,
+      "sha256": "cb23c9aa610f962692294aa14ff211c1499500736e27ceff7aa4d2d93afc83cd"
+    },
+    {
+      "name": "charges.csv",
+      "bytes": 42953,
+      "sha256": "1050578e4b317699961b0da4e91f9cb8a8c93514b47699f97dca4aa03cd3f4bd"
+    }
+  ]
+}
